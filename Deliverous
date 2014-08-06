@@ -1,5 +1,5 @@
 d01:
-  image: debian
+  image: debian:jessie
   ports:
   - ip: 5.135.124.161
     host_port: 22

@@ -1,5 +1,5 @@
 d01:
-  image: deliverous/docker-jessie
+  image: debian
   ports:
   - ip: 5.135.124.161
     host_port: 22
